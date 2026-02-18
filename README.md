@@ -1,5 +1,7 @@
 # Secure Access MVP - Фронтенд на Vue.js
 
+> Реализовано в рамках производственной практики
+
 ![SecureAccess Screenshot](./preview.png)
 
 ## 📋 Описание проекта
